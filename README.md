@@ -66,5 +66,7 @@ Implement CSRF Tokens: Use anti-CSRF tokens for all state-changing requests.
 Enforce Current Password Verification: Require users to enter their current password when changing credentials.
 
 5. Screenshots
-![image](https://github.com/user-attachments/assets/b0852aeb-4ee5-48be-b951-d383f9cf7a93)
-![image](https://github.com/user-attachments/assets/f7d59566-15c9-44bd-af87-e66c6f26473a)
+![Screenshot 2025-03-23 013458](https://github.com/user-attachments/assets/2888fee7-606d-4a65-b941-af2e560fa69d)
+
+![Screenshot 2025-03-23 013733](https://github.com/user-attachments/assets/61ea466d-df53-4cab-a156-d4994f78b750)
+
