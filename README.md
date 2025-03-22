@@ -19,8 +19,8 @@ Enforce strong authentication mechanisms like multi-factor authentication (MFA).
 Implement rate limiting to prevent brute-force attacks.
 
 5. Screenshots:
-![image](https://github.com/user-attachments/assets/8c18a1c8-3c21-4bf6-8238-d32b98a62084)
-![image](https://github.com/user-attachments/assets/abb0c4f1-3569-4ac2-9ac8-af245191897b)
+![Screenshot 2025-03-22 200159](https://github.com/user-attachments/assets/d227a688-b144-419b-bb13-6ccf670b4601)
+![Screenshot 2025-03-22 200235](https://github.com/user-attachments/assets/f5badbfa-ea36-4fb9-a636-d98cc261bb70)
 
 
  
@@ -39,7 +39,8 @@ Content Security Policy (CSP): Implement a strong CSP to restrict the execution 
 HTTPOnly Flag for Cookies: Ensure session cookies have the HttpOnly attribute set to prevent access via JavaScript.
 
 5. Screenshots:
-![image](https://github.com/user-attachments/assets/324956b0-ea9a-4c41-8eed-efc4a59d8837)
+![Screenshot 2025-03-23 005333](https://github.com/user-attachments/assets/ca4f1b6c-b5f4-48bc-b41d-6cf299d5850d)
+
 
 
  
