@@ -1,7 +1,5 @@
 # BlueMedix-Security-Engineer
 
-ZAP Report : 
-
 Vulnerability Title: SQL Injection in Login Form
 Description: A SQL Injection vulnerability was discovered in the Juice Shop application that allows an attacker to bypass authentication and retrieve sensitive user information, including email IDs and passwords.
 
